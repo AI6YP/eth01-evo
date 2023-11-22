@@ -18,6 +18,13 @@ https://www.dacomwest.de/en/component/edocman/dm9051-i-12-mco-ds-p01-03302015/do
 
 https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/api-reference/network/esp_eth.html#spi-ethernet-module
 
+### RJ45 connector
+
+![](assets/esp32-passive-poe-ethernet-jack.png)
+
+https://pcbartists.com/design/embedded/esp32-passive-poe-power-over-ethernet-design-schematic
+
+
 ### WT32C3-S5 module
 
 http://en.wireless-tag.com/product-item-18.html
@@ -32,6 +39,8 @@ https://templates.blakadder.com/wireless_tag_WT32C3-S5.html
 https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_en.pdf
 
 https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/
+
+
 
 ### Other
 
