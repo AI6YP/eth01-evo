@@ -10,8 +10,8 @@
 
 ### Pinout
 
-| # | left | desc |
-|-|-|-|
+| # | left | io | on board |
+|-|-|-|-|
 | 1  | POE- |        |
 | 2  | POE+ |        |
 | 3  | GND  |        |
